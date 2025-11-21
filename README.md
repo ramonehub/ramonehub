@@ -17,6 +17,7 @@
       alt="Image"
       style="width:80px; vertical-align:middle;"
     />
+    <br>
   </h1>
 </div>
 
