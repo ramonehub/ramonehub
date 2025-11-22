@@ -1,12 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=130&section=header"/>
 
-<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+<img width="1692" height="66" alt="Image" src="https://github.com/user-attachments/assets/66c32e00-7522-408a-bb77-99cc64baf048" />
 
 
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome!+Dear+visitant.+%F0%9F%91%8B;I'm+Arthur+Murray.;a.k.a+MerliN." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=fd6a00&center=true&vCenter=true&width=435&lines=Welcome!+Dear+visitant.+%F0%9F%91%8B;I'm+Arthur+Murray.;a.k.a+MerliN." alt="Typing SVG" /></a>
 </div>
 
 <div>
